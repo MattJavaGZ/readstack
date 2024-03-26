@@ -1,0 +1,22 @@
+.comments {
+    text-align: center;
+}
+
+.singleComment {
+    border: 1px solid #BDBDBD;
+
+}
+.singleComment > a {
+    color: red ;
+}
+
+/*ul > li:nth-child(odd){*/
+/*    background-color: lightblue;*/
+/*}*/
+/*ul > li:nth-child(even) {*/
+/*    background-color: lavender;*/
+/*}*/
+ul {
+    list-style: none;
+}
+
